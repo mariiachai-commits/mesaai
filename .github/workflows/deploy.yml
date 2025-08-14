@@ -16,6 +16,7 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+
 jobs:
   # Single job since it's a static site
   deploy:
